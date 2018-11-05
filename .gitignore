@@ -1,0 +1,5 @@
+# IDEA configurations
+.idea/
+
+# IPython checkpoints
+.ipynb_checkpoints/
